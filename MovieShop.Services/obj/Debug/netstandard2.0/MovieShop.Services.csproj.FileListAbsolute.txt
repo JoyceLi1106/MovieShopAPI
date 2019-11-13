@@ -1,0 +1,8 @@
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\bin\Debug\netstandard2.0\MovieShop.Services.deps.json
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\bin\Debug\netstandard2.0\MovieShop.Services.dll
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\bin\Debug\netstandard2.0\MovieShop.Services.pdb
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.0\MovieShop.Services.csprojAssemblyReference.cache
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.0\MovieShop.Services.AssemblyInfoInputs.cache
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.0\MovieShop.Services.AssemblyInfo.cs
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.0\MovieShop.Services.dll
+C:\Antra Doc\Projects\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.0\MovieShop.Services.pdb
